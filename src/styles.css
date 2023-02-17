@@ -1,0 +1,25 @@
+body{
+    background: black;
+    color: white;
+}
+.container{
+    background: black;
+    color: yellow;
+    
+}
+.row {
+    color: yellow;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+strong{
+    color: white;
+    margin: 480px;
+       
+}
+h2{
+    margin: 100px;
+    
+}
